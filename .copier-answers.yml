@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.8
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: hongda.zhang@outlook.com
+author_name: Hongda Zhang
+has_binder: false
+has_settings: true
+kind: frontend
+labextension_name: alchemycanvas
+project_short_description: AlchemyCanvas is a JupyterLab extension for building AI/ML
+    workflows through a magical node-based interface.
+python_name: alchemycanvas
+repository: https://github.com/hongda-zhang/AlchemyCanvas
+test: true
+
